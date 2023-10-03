@@ -1,0 +1,144 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Kate",
+      "lastName": "Jons",
+      "phone": "123456",
+      "category": "all"
+    },
+    {
+      "id": 2,
+      "firstName": "Emile",
+      "lastName": "Ford",
+      "phone": "225480",
+      "category": "all"
+    },
+    {
+      "id": 3,
+      "firstName": "Cristiano",
+      "lastName": "Rolando",
+      "phone": "777777",
+      "category": "favorite"
+    },
+    {
+      "id": 4,
+      "firstName": "Alex",
+      "lastName": "Taylor",
+      "phone": "255788",
+      "category": "all"
+    },
+    {
+      "id": 5,
+      "firstName": "Cristian",
+      "lastName": "Dior",
+      "phone": "248655",
+      "category": "favorite"
+    },
+    {
+      "id": 6,
+      "firstName": "Giorge",
+      "lastName": "Kebro",
+      "phone": "224534",
+      "category": "all"
+    },
+    {
+      "id": 7,
+      "firstName": "Alisher",
+      "lastName": "Navoiy",
+      "phone": "442144",
+      "category": "favorite"
+    },
+    {
+      "id": 8,
+      "firstName": "Messi",
+      "lastName": "Leonal",
+      "phone": "333333",
+      "category": "all"
+    },
+    {
+      "id": 9,
+      "firstName": "Kelian",
+      "lastName": "Mbappe",
+      "phone": "101775",
+      "category": "favorite"
+    },
+    {
+      "id": 10,
+      "firstName": "Neymar",
+      "lastName": "Jr",
+      "phone": "257880",
+      "category": "all"
+    },
+    {
+      "id": 11,
+      "firstName": "Saydulla",
+      "lastName": "Abdulaev",
+      "phone": "981257",
+      "category": "favorite"
+    },
+    {
+      "id": 12,
+      "firstName": "Bob",
+      "lastName": "Dj",
+      "phone": "445783",
+      "category": "all"
+    },
+    {
+      "id": 13,
+      "firstName": "Kir",
+      "lastName": "Morty",
+      "phone": "220012",
+      "category": "favorite"
+    },
+    {
+      "id": 14,
+      "firstName": "Ankaqa",
+      "lastName": "Messi",
+      "phone": "473301",
+      "category": "all"
+    },
+    {
+      "id": 15,
+      "firstName": "Abbos",
+      "lastName": "Fayzulaev",
+      "phone": "240458",
+      "category": "favorite"
+    },
+    {
+      "id": 16,
+      "firstName": "Miki",
+      "lastName": "Mause",
+      "phone": "364770",
+      "category": "favorite"
+    },
+    {
+      "id": 17,
+      "firstName": "Hary",
+      "lastName": "Neola",
+      "phone": "472123",
+      "category": "all"
+    },
+    {
+      "id": 18,
+      "firstName": "Will",
+      "lastName": "Smith",
+      "phone": "996852",
+      "category": "favorite"
+    },
+    {
+      "id": 19,
+      "firstName": "Jo",
+      "lastName": "Baydn",
+      "phone": "581747",
+      "category": "all"
+    },
+    {
+      "id": 20,
+      "firstName": "Make",
+      "lastName": "Teson",
+      "phone": "145020",
+      "category": "favorite"
+    }
+  ]
+}
